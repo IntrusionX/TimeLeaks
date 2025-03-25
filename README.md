@@ -13,6 +13,10 @@ This tool helps you quickly categorize URLs from archived websites, identifying 
 
 How to Run:
 
+git clone https://github.com/IntrusionX/TimeLeaks.git
+
+cd TimeLeaks
+
 Set up the tool:
 
 
