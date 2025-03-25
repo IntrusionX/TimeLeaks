@@ -12,14 +12,17 @@ Server-Side Request Forgery (SSRF)
 This tool helps you quickly categorize URLs from archived websites, identifying potential vulnerability types based on predefined patterns.
 
 How to Run:
+
 Set up the tool:
 
 
 chmod +x setup.sh
+
 Install dependencies:
 
 
 ./setup.sh
+
 Run the tool:
 
 bash
